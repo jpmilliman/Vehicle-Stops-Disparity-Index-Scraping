@@ -17,7 +17,7 @@
  
  ##Files/scripts
 
- `vsrreport 22022.pdf`: The pdf report where the vehicle disparity index tables for years 2000 to 2022 can be found.
+ `vsrreport2022.pdf`: The pdf report where the vehicle disparity index tables for years 2000 to 2022 can be found.
  
  `rdi_scraping_2000_2022.R`: The R code to scrape the pdf and extract the data into a xlsx file.
  
