@@ -27,7 +27,7 @@ Before running the script, you may need to tell R where to find your local insta
 
 ## Variable Descriptions
 
-### Missouri_RDI_Index.xlsx(Sheet = RDI)
+### Missouri_RDI_Index.xlsx (Sheet = RDI)
 
 | Column | Description |
 | :--- | :--- |
@@ -41,12 +41,12 @@ Before running the script, you may need to tell R where to find your local insta
 | `asian` | RDI for asian drivers who were stopped. |
 | `other` | RDI for drivers who stopped who do not fit into previous race categories. |
 
-### Missouri_RDI_Index.xlsx(Sheet = RDI_long)
+### Missouri_RDI_Index.xlsx (Sheet = RDI_long)
 
 | Column | Description | 
 | :--- | :--- |
 | `dept_year_id`|  Department Year ID - starting with 1.1 - first department, year 2000.|
 | `department`  | Name of the police department.|
 | `year`  |Observation year/time period.|
-| `race`  |Race of driver stopped: white, black, hispanic, native ameriacn, asian, or other.|
+| `race`  |Race of driver stopped: white, black, hispanic, native american, asian, or other.|
 | `disparity_index`  |Value of the disparity index (RDI)|
